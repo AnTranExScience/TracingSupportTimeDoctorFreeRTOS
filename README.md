@@ -18,8 +18,6 @@ Project LCD_Priority_Inheritance_Mutex_3_PrintTasks
 ==========
 161202_Mastering_the_FreeRTOS_REal_Time_Kernel_A_Hands_On_Tutorial_Guide.pdf
 Demonstration of the mechanism Priority Inheritance
-----------------------
 
-------------------------
 
  
