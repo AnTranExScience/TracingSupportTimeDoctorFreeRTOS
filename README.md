@@ -21,6 +21,6 @@ Demonstration of the mechanism Priority Inheritance
 
 Notice
 ==========
-The project examples are created for the demonstration purpose and don not have any charater of production code.
+The project examples are created for the demonstration purpose and don not have any character of production code.
 
  
